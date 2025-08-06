@@ -1,4 +1,4 @@
-``json
+```
 {
   "mcpServers": {
     "play-music-mcp": {
@@ -11,4 +11,6 @@
       ]
     }
   }
+```
+
 
